@@ -1,6 +1,9 @@
 # 대학교 SW프로젝트과목 기말 프로젝트
 
 ### 치매 예방 기억력 카드 게임 with Kinect
+* Kinect depthstream 기능을 활용하여 WPF 가상 마우스 커서 조작
+* Memory 카드 뒤집기 게임 구현
+* 인지활동 뿐만 아니라 미세한 손의 움직임을 통한 적절한 운동을 유도하여 치매 예방에 기여 
 <br>
 
 ◤Platforms & Languages<br>
