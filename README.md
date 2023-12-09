@@ -9,7 +9,7 @@
 
 ◤Tools<br>
 ![eclips](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![eclips](https://img.shields.io/badge/Kinect-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![eclips](https://img.shields.io/badge/Kinect-5C2D91?style=for-the-badge&logo=https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/8cef8e84-16ce-4197-ad55-bd03980d7201&logoColor=white)
 <br>
 
 ◤메인화면<br>
