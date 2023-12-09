@@ -1,7 +1,6 @@
 # 대학교 SW프로젝트과목 기말 프로젝트
 
 #### 치매 예방 기억력 카드 게임 with Kinect
-<br>
 
 ◤Platforms & Languages<br>
 ![c#](https://img.shields.io/badge/Cs-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
