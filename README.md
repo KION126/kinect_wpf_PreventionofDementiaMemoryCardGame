@@ -18,7 +18,7 @@
 ◤난이도 선택 화면<br>
 <img src="https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/0be8f14f-1bd8-4d66-83f2-064494e1e801"  width="500" height="266"/>
 
-◤보통 난이도 게임 화면<br>
+◤보통 난이도          ◤게임 화면<br>
 <img src="https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/d3cf76e4-d9e5-4cec-b1bc-f982b24b2a5f"  width="500" height="266"/>
 
 ◤점수기록 화면 & 순위 화면<br>
