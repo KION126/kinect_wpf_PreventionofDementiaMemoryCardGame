@@ -6,7 +6,6 @@
 * Platforms & Languages<br>
 ![c#](https://img.shields.io/badge/Cs-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
 
 * Tools<br>
 ![visualstudio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
