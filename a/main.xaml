@@ -1,0 +1,25 @@
+﻿<Page x:Class="a.main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:a"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="675" Width="1200">
+    <Grid>
+        <!--KinectRegion은 Kinect 센서와 관련된 기능을 할 수 있는 영역-->
+        <k:KinectRegion Name="kinectRegion">
+            <Canvas Margin="10,10,10,10" Name="canvasPanel">
+                <Image Height="675" Source="/image/background/mainBackGround.png" Stretch="Fill" Width="1200" Canvas.Left="-11" HorizontalAlignment="Center" VerticalAlignment="Top" Canvas.Top="-12"/>
+                <!--sensorChooserUi는 감지된 키넥트 상태-->
+                <k:KinectSensorChooserUI HorizontalAlignment="Left" VerticalAlignment="Top" Name="sensorChooserUi" Canvas.Left="569" Canvas.Top="10" />
+                <!--KinectUserViewer는 Kinect 사용자의 동작 및 트래킹을 시각화한다.-->
+                <k:KinectUserViewer VerticalAlignment="Top" HorizontalAlignment="Left" k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="200" RenderTransformOrigin="0.48,0.515" Margin="490,218,0,0" Width="366" />
+                <k:KinectTileButton x:Name="startGame" BorderThickness="0" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="100" Click="startGame_Click" FontSize="30" FontWeight="Bold" Canvas.Top="526"  Canvas.Left="489">
+                    <Image Source="/image/icon/gameStartIcon.png"/>
+                </k:KinectTileButton>
+            </Canvas>
+        </k:KinectRegion>
+    </Grid>
+</Page>

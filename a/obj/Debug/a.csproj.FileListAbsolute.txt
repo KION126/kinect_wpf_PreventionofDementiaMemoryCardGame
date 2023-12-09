@@ -1,0 +1,136 @@
+C:\Kinect_Project\a\a\bin\Debug\a.exe.config
+C:\Kinect_Project\a\a\bin\Debug\a.exe
+C:\Kinect_Project\a\a\bin\Debug\a.pdb
+C:\Kinect_Project\a\a\bin\Debug\Microsoft.Kinect.dll
+C:\Kinect_Project\a\a\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Kinect_Project\a\a\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Kinect_Project\a\a\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Kinect_Project\a\a\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Kinect_Project\a\a\bin\Debug\Microsoft.Kinect.xml
+C:\Kinect_Project\a\a\obj\Debug\a.csproj.AssemblyReference.cache
+C:\Kinect_Project\a\a\obj\Debug\MainWindow.g.cs
+C:\Kinect_Project\a\a\obj\Debug\App.g.cs
+C:\Kinect_Project\a\a\obj\Debug\a_MarkupCompile.cache
+C:\Kinect_Project\a\a\obj\Debug\a_MarkupCompile.lref
+C:\Kinect_Project\a\a\obj\Debug\MainWindow.baml
+C:\Kinect_Project\a\a\obj\Debug\a.g.resources
+C:\Kinect_Project\a\a\obj\Debug\a.Properties.Resources.resources
+C:\Kinect_Project\a\a\obj\Debug\a.csproj.GenerateResource.cache
+C:\Kinect_Project\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Kinect_Project\a\a\obj\Debug\a.csproj.CopyComplete
+C:\Kinect_Project\a\a\obj\Debug\a.exe
+C:\Kinect_Project\a\a\obj\Debug\a.pdb
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\a.exe.config
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\a.exe
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\a.pdb
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.csproj.AssemblyReference.cache
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.csproj.SuggestedBindingRedirects.cache
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\MainWindow.g.cs
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\App.g.cs
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a_MarkupCompile.cache
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a_MarkupCompile.lref
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\MainWindow.baml
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.g.resources
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.Properties.Resources.resources
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.csproj.GenerateResource.cache
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.csproj.CopyComplete
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.exe
+C:\Users\kg200\Documents\카카오톡 받은 파일\a\a\obj\Debug\a.pdb
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\a.exe.config
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\a.exe
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\a.pdb
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\kg200\Desktop\a (2)\a\a\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.csproj.AssemblyReference.cache
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.csproj.SuggestedBindingRedirects.cache
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\MainWindow.g.cs
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\App.g.cs
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a_MarkupCompile.cache
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a_MarkupCompile.lref
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\MainWindow.baml
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.g.resources
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.Properties.Resources.resources
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.csproj.GenerateResource.cache
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.csproj.CopyComplete
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.exe
+C:\Users\kg200\Desktop\a (2)\a\a\obj\Debug\a.pdb
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\a.exe.config
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\a.exe
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\a.pdb
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.csproj.AssemblyReference.cache
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.csproj.SuggestedBindingRedirects.cache
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\game1.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\MainWindow.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\App.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a_MarkupCompile.cache
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a_MarkupCompile.lref
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\MainWindow.baml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\game1.baml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.g.resources
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.Properties.Resources.resources
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.csproj.GenerateResource.cache
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.csproj.CopyComplete
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.exe
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\a.pdb
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\menu.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\menu.baml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\main.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\main.baml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\game3.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\game2.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\game3.baml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\game2.baml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Google.Protobuf.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\MySql.Data.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Buffers.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Memory.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\ZstdSharp.dll
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Google.Protobuf.pdb
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Google.Protobuf.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\MySql.Data.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Buffers.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Memory.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\ScoreBoard.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\ScoreBoard.baml
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\rank.g.cs
+C:\Users\kg200\Desktop\a (2) - 복사본\a\a\obj\Debug\rank.baml

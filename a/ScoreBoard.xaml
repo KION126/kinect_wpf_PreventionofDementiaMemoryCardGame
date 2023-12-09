@@ -1,0 +1,19 @@
+﻿<Window x:Class="a.ScoreBoard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:a"
+        mc:Ignorable="d"
+        Title="ScoreBoard" Height="450" Width="800">
+
+    <Grid>
+        <Frame x:Name="scoreFrame" NavigationUIVisibility="Hidden"/>
+        <Image Source="/image/background/scoreBoard.png" Stretch="Fill" Canvas.Left="-11" Canvas.Top="-8" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <TextBlock x:Name="txtScore" HorizontalAlignment="Center" Margin="0,128,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Height="60" Width="370" FontFamily="Arial Black" FontSize="48" TextAlignment="Center" Foreground="#FF71D422"/>
+        <TextBox x:Name="nameInput" BorderThickness="3" HorizontalAlignment="Center" Margin="0,244,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="370" Height="42" FontSize="20"/>
+        <Button BorderThickness="0" Background="Transparent" Margin="0,317,0,0" VerticalAlignment="Top" Height="60" Width="150" Click="rank">
+            <Image Source="/image/icon/scoreSaveBtn.png"></Image>
+        </Button>
+    </Grid>
+</Window>

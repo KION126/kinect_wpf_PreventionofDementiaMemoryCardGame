@@ -1,0 +1,33 @@
+﻿<Page x:Class="a.rank"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:a"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="rank">
+    <Grid>
+        <Image Source="/image/background/rank.png" Stretch="Fill" Canvas.Left="-11" Canvas.Top="-8" HorizontalAlignment="Left" VerticalAlignment="Center" Panel.ZIndex="-1"/>
+        <ListBox x:Name="scoreListBox" Foreground="White" Background="Transparent" ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="120,160,119,62" BorderThickness="0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70"/>
+                            <ColumnDefinition Width="125"/>
+                            <ColumnDefinition Width="90"/>
+                            <ColumnDefinition Width="155"/>
+                            <ColumnDefinition Width="90"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="{Binding rank}" Foreground="#DF6116" FontSize="20" TextAlignment="Center"/>
+                        <TextBlock Grid.Column="1" Text="{Binding userName}" Foreground="#DF6116" FontSize="20" TextAlignment="Center"/>
+                        <TextBlock Grid.Column="2" Text="{Binding score}" Foreground="#DF6116" FontSize="20" TextAlignment="Center"/>
+                        <TextBlock Grid.Column="3" Text="{Binding date}" Foreground="#DF6116" FontSize="20" TextAlignment="Center"/>
+                        <TextBlock Grid.Column="4" Text="{Binding time}" Foreground="#DF6116" FontSize="20" TextAlignment="Center"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Page>
