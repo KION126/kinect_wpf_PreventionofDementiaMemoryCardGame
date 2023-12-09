@@ -21,5 +21,5 @@
 ◤보통 난이도 게임 화면<br>
 <img src="https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/d3cf76e4-d9e5-4cec-b1bc-f982b24b2a5f"  width="500" height="266"/>
 
-◤점수기록 화면           ◤순위 화면<br>
+◤점수기록 화면         ◤순위 화면<br>
 <img src="https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/d4508b84-287a-4612-bf24-f262d4a4e24c"  width="250" height="133"/><img src="https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/7683b048-c7bb-4abd-be23-29bc598309f2"  width="250" height="133"/>
