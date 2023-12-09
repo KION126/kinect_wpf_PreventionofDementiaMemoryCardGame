@@ -13,6 +13,5 @@
 <br>
 
 ◤메인화면<br>
-<img src="https://github.com/KION126/jsp-project-develop/assets/73977410/4897eb63-d34e-406a-8375-a0f537a319b4"  width="500" height="500"/>
-
+<img src="https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/4b5c04bc-116d-4137-8069-1d02b5b61e17"  width="500" height="500"/>
 
