@@ -1,4 +1,5 @@
-# Motion Capture Dementia Prevention Memory Card Game
+# Motion Capture
+Dementia Prevention Memory Card Game
 
 ### 치매 예방 기억력 카드 게임 with Kinect
 * Kinect Depthstream 기능을 활용하여 WPF 가상 마우스 커서 조작
