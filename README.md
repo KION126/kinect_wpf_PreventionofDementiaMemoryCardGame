@@ -28,4 +28,5 @@
 <img src="https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/d4508b84-287a-4612-bf24-f262d4a4e24c"  width="250" height="133"/> <img src="https://github.com/KION126/kinect-wpf-PreventionofDementiaMemoryCardGame/assets/73977410/7683b048-c7bb-4abd-be23-29bc598309f2"  width="250" height="133"/>
 
 ◤시연 영상<br>
-https://youtu.be/PsFfGQzYxiE?si=inYFE_8IZtbTv9Jp
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PsFfGQzYxiE?si=jMORcZYdtaFoYuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
