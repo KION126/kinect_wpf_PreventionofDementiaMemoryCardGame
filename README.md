@@ -1,4 +1,4 @@
-# 대학교 SW프로젝트과목 기말 프로젝트
+# Motion Capture Dementia Prevention Memory Card Game
 
 ### 치매 예방 기억력 카드 게임 with Kinect
 * Kinect Depthstream 기능을 활용하여 WPF 가상 마우스 커서 조작
